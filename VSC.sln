@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VscTestScript", "VscTestScript\VscTestScript.csproj", "{155F0C29-B08D-43A2-9625-CFAD96E44A5A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VscTestScriptLibrary", "VscTestScriptLibrary\VscTestScriptLibrary.csproj", "{9750E254-F933-42B8-9F8E-05E862944B3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCVTesseractCsharp", "EmguCVTesseractCsharp\EmguCVTesseractCsharp.csproj", "{C327536A-5276-4F5B-8247-FE77ED14AB44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{155F0C29-B08D-43A2-9625-CFAD96E44A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{155F0C29-B08D-43A2-9625-CFAD96E44A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{155F0C29-B08D-43A2-9625-CFAD96E44A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{155F0C29-B08D-43A2-9625-CFAD96E44A5A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9750E254-F933-42B8-9F8E-05E862944B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9750E254-F933-42B8-9F8E-05E862944B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9750E254-F933-42B8-9F8E-05E862944B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9750E254-F933-42B8-9F8E-05E862944B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C327536A-5276-4F5B-8247-FE77ED14AB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C327536A-5276-4F5B-8247-FE77ED14AB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C327536A-5276-4F5B-8247-FE77ED14AB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C327536A-5276-4F5B-8247-FE77ED14AB44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
